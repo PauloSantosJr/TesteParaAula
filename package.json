@@ -1,0 +1,25 @@
+{
+  "name": "TesteParaAula",
+  "version": "1.0.0",
+  "description": "Esse é um teste para a aula...",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloSantosJr/TesteParaAula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloSantosJr/TesteParaAula/issues"
+  },
+  "homepage": "https://github.com/PauloSantosJr/TesteParaAula#readme"
+}
